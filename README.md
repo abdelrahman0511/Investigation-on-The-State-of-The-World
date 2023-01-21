@@ -1,6 +1,3 @@
-# Investigation-on-The-State-of-The-World
-Investigating the state of the world through data collected from Gapminder which has a lot of information about how people live their lives in different countries, tracked across the years, and on several different indicators.
-
 Investigation on The State of The World
 -------------------------------------------
 • Investigated the state of the world's countries using Jupyter Notebook.
